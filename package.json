@@ -22,7 +22,7 @@
         "body-parser": "^1.20.2",
         "cors": "^2.8.5",
         "dotenv": "^16.4.5",
-        "express": "^4.19.2",
+        "express": "^4.21.1",
         "node-fetch": "^3.2.6",
         "oracledb": "^6.4.0",
         "ssh2": "^1.15.0"
